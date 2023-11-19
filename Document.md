@@ -23,22 +23,65 @@
 
 #### 1.3 Ví dụ
 
-- I often go to school by motorbike. *(Tôi thường đi học bằng xe máy.)*
-- The sun rises in the East. *(Mặt trời mọc ở đằng Đông.)*
-- The plane takes off at 7a.m today. *(Máy bay sẽ cất cánh vào 7 giờ hôm nay.)*
-- I am tired. *(Tôi mệt.)*
+- I often **go** to school by motorbike. *(Tôi thường đi học bằng xe máy.)*
+- The sun **rises** in the East. *(Mặt trời mọc ở đằng Đông.)*
+- The plane **takes** **off** at 7a.m today. *(Máy bay sẽ cất cánh vào 7 giờ hôm nay.)*
+- I **am** tired. *(Tôi mệt.)*
 
 #### 1.4 Dấu hiệu nhận biết
 
-- Every + day/ week / month...
+- Every + day / week / month...
 - Always, usually, frequently, often, sometimes, occassionally, seldom, rarely, never.
 - Once / twice / three times... + a day / a week / a year...
 
-### 2. Thì quá khứ đơn
+### 2. Thì quá khứ đơn (Simple past)
+
+#### 1.1 Cách sử dụng
+
+- Diễn tả một hành động đã xảy ra và chấm dứt hoàn toàn trong quá khứ.
+- Diễn tả các hành động xảy ra liên tiếp trong quá khứ.
+- Diễn tả một thói quen hoặc một hành động lặp đi lặp lại trong quá khứ.
+
+#### 1.2 Cú pháp
+
+```
+(+) S + V2/ed
+(-) S + did + not + V
+(?) Did + S + V?
+```
+
+#### 1.3 Ví dụ
+
+- I **went** shopping yesterday. *(Tôi đã đi mua sắm ngày hôm qua.)*
+- Last night, I **came** home, **had** dinner and **watched** TV. *(Tối qua tôi đã trở về nhà, ăn tối và xem TV.)*
+- When I **was** a little girl, I always **read** comics. *(Khi tôi còn là một cô bé, tôi luôn đọc truyện tranh.)* 
+
+#### 1.4 Dấu hiệu nhận biết
+
+- In 1988 / 1999 / 2000...
+- Yesterday, ago.
+- Last week / month / year...
+- In the past, the day before.
 
 ### 3. Thì tương lai đơn
 
+#### 1.1 Cách sử dụng
+
+#### 1.2 Cú pháp
+
+#### 1.3 Ví dụ
+
+#### 1.4 Dấu hiệu nhận biết
+
 ### 4. Thì hiện tại tiếp diễn
+
+#### 1.1 Cách sử dụng
+
+#### 1.2 Cú pháp
+
+#### 1.3 Ví dụ
+
+#### 1.4 Dấu hiệu nhận biết
 
 ### 5. Thì quá khứ tiếp diễn
 
