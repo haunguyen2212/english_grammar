@@ -99,7 +99,6 @@
 - Diễn tả một hành động đang xảy ra tại thời điểm nói.
 - Diễn tả một hành động đang xảy ra nhưng không nhất thiết phải xảy ra ngay lúc nói.
 - Diễn tả một kế hoạch hoặc một sự sắp xếp đã được quyết định cho tương lai.
-
 - Diễn tả sự bực bội hay phàn nàn về hành động lặp đi lặp lại (thường đi kèm với "always", "constantly", "continually").
 
 #### 1.2 Cú pháp
@@ -113,9 +112,7 @@
 #### 1.3 Ví dụ
 
 - I **am sitting** at my desk right now. *(Tôi đang ngồi ở bàn làm việc của mình lúc này.)*
-
 - She **is working** on a new project this month. *(Cô ấy đang làm việc trên một dự án mới trong tháng này.)*
-
 - They **are leaving** for New York next week. *(Họ sẽ rời đi New York vào tuần tới.)*
 - He**'s** **always coming** to work late. *(Anh ta luôn đến công việc muộn.)*
 
