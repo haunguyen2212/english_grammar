@@ -46,7 +46,7 @@
 
 ```
 (+) S + V2/ed
-(-) S + did + not + V
+(-) S + did not (didn't) + V
 (?) Did + S + V?
 ```
 
@@ -63,25 +63,69 @@
 - Last week / month / year...
 - In the past, the day before.
 
-### 3. Thì tương lai đơn
+### 3. Thì tương lai đơn (Simple Future)
 
 #### 1.1 Cách sử dụng
 
+- Diễn tả một hành động sẽ xảy ra ở một thời điểm xác định trong tương lai.
+- Diễn tả một quyết định được đưa ra ngay tại thời điểm nói.
+- Diễn tả một dự đoán không dựa trên bằng chứng hiện tại.
+
 #### 1.2 Cú pháp
+
+```
+(+) S + will + V
+(-) S + will not (won't) + V
+(?) Will + S + V?
+```
 
 #### 1.3 Ví dụ
 
+- I **will meet** you at the train station at 9 AM. *(Tôi sẽ gặp bạn tại ga tàu lúc 9 giờ sáng.)* 
+- I **will have** a cup of coffee. *(Tôi sẽ uống một cốc cà phê.)*
+- It **will rain** tomorrow. *(Trời sẽ mưa ngày mai.)*
+
 #### 1.4 Dấu hiệu nhận biết
 
-### 4. Thì hiện tại tiếp diễn
+- Tomorrow, next week / month / year...
+- In the future, soon.
+- Someday, later, tonight.
+- In an hour, in two days...
+
+### 4. Thì hiện tại tiếp diễn (Present Continuous)
 
 #### 1.1 Cách sử dụng
 
+- Diễn tả một hành động đang xảy ra tại thời điểm nói.
+- Diễn tả một hành động đang xảy ra nhưng không nhất thiết phải xảy ra ngay lúc nói.
+- Diễn tả một kế hoạch hoặc một sự sắp xếp đã được quyết định cho tương lai.
+
+- Diễn tả sự bực bội hay phàn nàn về hành động lặp đi lặp lại (thường đi kèm với "always", "constantly", "continually").
+
 #### 1.2 Cú pháp
+
+```
+(+) S + am/is/are + V-ing
+(-) S + am/is/are + not + V-ing
+(?) Am/Is/Are + S + V-ing?
+```
 
 #### 1.3 Ví dụ
 
+- I **am sitting** at my desk right now. *(Tôi đang ngồi ở bàn làm việc của mình lúc này.)*
+
+- She **is working** on a new project this month. *(Cô ấy đang làm việc trên một dự án mới trong tháng này.)*
+
+- They **are leaving** for New York next week. *(Họ sẽ rời đi New York vào tuần tới.)*
+- He**'s** **always coming** to work late. *(Anh ta luôn đến công việc muộn.)*
+
 #### 1.4 Dấu hiệu nhận biết
+
+- Now, right now, at the moment.
+- Currently, presently.
+- These days, this week/month/year.
+- At present, today.
+- Always, constantly, continually.
 
 ### 5. Thì quá khứ tiếp diễn
 
