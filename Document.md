@@ -36,13 +36,13 @@
 
 ### 2. Thì quá khứ đơn (Simple past)
 
-#### 1.1 Cách sử dụng
+#### 2.1 Cách sử dụng
 
 - Diễn tả một hành động đã xảy ra và chấm dứt hoàn toàn trong quá khứ.
 - Diễn tả các hành động xảy ra liên tiếp trong quá khứ.
 - Diễn tả một thói quen hoặc một hành động lặp đi lặp lại trong quá khứ.
 
-#### 1.2 Cú pháp
+#### 2.2 Cú pháp
 
 ```
 (+) S + V2/ed
@@ -50,13 +50,13 @@
 (?) Did + S + V?
 ```
 
-#### 1.3 Ví dụ
+#### 2.3 Ví dụ
 
 - I **went** shopping yesterday. *(Tôi đã đi mua sắm ngày hôm qua.)*
 - Last night, I **came** home, **had** dinner and **watched** TV. *(Tối qua tôi đã trở về nhà, ăn tối và xem TV.)*
 - When I **was** a little girl, I always **read** comics. *(Khi tôi còn là một cô bé, tôi luôn đọc truyện tranh.)* 
 
-#### 1.4 Dấu hiệu nhận biết
+#### 2.4 Dấu hiệu nhận biết
 
 - In 1988 / 1999 / 2000...
 - Yesterday, ago.
@@ -65,13 +65,13 @@
 
 ### 3. Thì tương lai đơn (Simple Future)
 
-#### 1.1 Cách sử dụng
+#### 3.1 Cách sử dụng
 
 - Diễn tả một hành động sẽ xảy ra ở một thời điểm xác định trong tương lai.
 - Diễn tả một quyết định được đưa ra ngay tại thời điểm nói.
 - Diễn tả một dự đoán không dựa trên bằng chứng hiện tại.
 
-#### 1.2 Cú pháp
+#### 3.2 Cú pháp
 
 ```
 (+) S + will + V
@@ -79,13 +79,13 @@
 (?) Will + S + V?
 ```
 
-#### 1.3 Ví dụ
+#### 3.3 Ví dụ
 
 - I **will meet** you at the train station at 9 AM. *(Tôi sẽ gặp bạn tại ga tàu lúc 9 giờ sáng.)* 
 - I **will have** a cup of coffee. *(Tôi sẽ uống một cốc cà phê.)*
 - It **will rain** tomorrow. *(Trời sẽ mưa ngày mai.)*
 
-#### 1.4 Dấu hiệu nhận biết
+#### 3.4 Dấu hiệu nhận biết
 
 - Tomorrow, next week / month / year...
 - In the future, soon.
@@ -94,14 +94,14 @@
 
 ### 4. Thì hiện tại tiếp diễn (Present Continuous)
 
-#### 1.1 Cách sử dụng
+#### 4.1 Cách sử dụng
 
 - Diễn tả một hành động đang xảy ra tại thời điểm nói.
 - Diễn tả một hành động đang xảy ra nhưng không nhất thiết phải xảy ra ngay lúc nói.
 - Diễn tả một kế hoạch hoặc một sự sắp xếp đã được quyết định cho tương lai.
 - Diễn tả sự bực bội hay phàn nàn về hành động lặp đi lặp lại (thường đi kèm với "always", "constantly", "continually").
 
-#### 1.2 Cú pháp
+#### 4.2 Cú pháp
 
 ```
 (+) S + am/is/are + V-ing
@@ -109,14 +109,14 @@
 (?) Am/Is/Are + S + V-ing?
 ```
 
-#### 1.3 Ví dụ
+#### 4.3 Ví dụ
 
 - I **am sitting** at my desk right now. *(Tôi đang ngồi ở bàn làm việc của mình lúc này.)*
 - She **is working** on a new project this month. *(Cô ấy đang làm việc trên một dự án mới trong tháng này.)*
 - They **are leaving** for New York next week. *(Họ sẽ rời đi New York vào tuần tới.)*
-- He**'s** **always coming** to work late. *(Anh ta luôn đến công việc muộn.)*
+- He **is** always **coming** to work late. *(Anh ta luôn đến công việc muộn.)*
 
-#### 1.4 Dấu hiệu nhận biết
+#### 4.4 Dấu hiệu nhận biết
 
 - Now, right now, at the moment.
 - Currently, presently.
@@ -124,9 +124,64 @@
 - At present, today.
 - Always, constantly, continually.
 
-### 5. Thì quá khứ tiếp diễn
+### 5. Thì quá khứ tiếp diễn (Past Continuous)
 
-### 6. Thì tương lai tiếp diễn
+#### 5.1 Cách sử dụng
+
+- Diễn tả một hành động đang diễn ra tại một điểm thời gian cụ thể ở quá khứ.
+- Diễn tả 1 hành động đang diễn ra trong quá khứ thì một hành động khác xen vào (Hành động xem vào chia quá khứ đơn).
+- Diễn tả 2 hành động đang diễn ra cùng lúc trong quá khứ.
+
+#### 5.2 Cú pháp
+
+```
+(+) S + was/were + V-ing
+(-) S + was/were + not + V-ing
+(?) Was/Were + S + V-ing?
+```
+
+#### 5.3 Ví dụ
+
+- At 7 PM last night, I **was cooking** dinner for my family. *(Vào lúc 7 giờ tối hôm qua, tôi đang nấu bữa tối cho gia đình.)*
+- I **was walking** in the park when I **saw** an old friend. *(Tôi đang đi dạo trong công viên khi bỗng dưng thấy một người bạn cũ.)*
+- While I **was cooking** dinner, my friends **were setting up** the table. *(Trong khi tôi đang nấu ăn, bạn tôi đang sắp đặt bàn.)*
+
+#### 5.4 Dấu hiệu nhận biết
+
+- At that moment, at 6 o'clock yesterday.
+- While, when.
+- All day, all night, for hours.
+- Yesterday, last night, at this time yesterday.
+- As long as, during.
+
+### 6. Thì tương lai tiếp diễn (Future Continuous)
+
+#### 6.1 Cách sử dụng
+
+- Diễn đạt hành động sẽ đang diễn ra tại một thời điểm xác định trong tương lai.
+- Diễn tả một hành động nào đó đang xảy ra trong tương lai thì có một hành động khác xen vào (hành động xen vào chia ở hiện tại đơn).
+- Diễn tả một hành động/ sự việc sẽ xảy ra và kéo dài liên tục trong tương lai.
+
+#### 6.2 Cú pháp
+
+```
+(+) S + will be + V-ing
+(-) S + will not be (won't be) + V-ing
+(?) Will + S + be + V-ing?
+```
+
+#### 6.3 Ví dụ
+
+- He will be eating lunch at 12 p.m tomorrow. *(Anh ấy sẽ ăn trưa lúc 12 giờ trưa ngày mai.)*
+- When her boyfriend comes tomorrow, Lily will be cooking. *(Khi bạn trai cô ấy đến vào ngày mai, Lily sẽ nấu ăn.)*
+- Next week is Lunar new year, I will be staying with my family for the next 7 days. *(Tuần sau là Tết Nguyên đán, tôi sẽ ở cùng gia đình trong 7 ngày tới.)*
+
+#### 6.4 Dấu hiệu nhận biết
+
+- At 5 p.m tomorrow.
+- At this time next week.
+- In the future, next year, next week, next time, soon.
+- While, when.
 
 ### 7. Thì hiện tại hoàn thành
 
