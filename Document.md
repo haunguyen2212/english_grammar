@@ -172,9 +172,9 @@
 
 #### 6.3 Ví dụ
 
-- He will be eating lunch at 12 p.m tomorrow. *(Anh ấy sẽ ăn trưa lúc 12 giờ trưa ngày mai.)*
-- When her boyfriend comes tomorrow, Lily will be cooking. *(Khi bạn trai cô ấy đến vào ngày mai, Lily sẽ nấu ăn.)*
-- Next week is Lunar new year, I will be staying with my family for the next 7 days. *(Tuần sau là Tết Nguyên đán, tôi sẽ ở cùng gia đình trong 7 ngày tới.)*
+- He **will be eating** lunch at 12 p.m tomorrow. *(Anh ấy sẽ ăn trưa lúc 12 giờ trưa ngày mai.)*
+- When her boyfriend **comes** tomorrow, Lily **will be cooking**. *(Khi bạn trai cô ấy đến vào ngày mai, Lily sẽ nấu ăn.)*
+- Next week is Lunar new year, I **will be staying** with my family for the next 7 days. *(Tuần sau là Tết Nguyên đán, tôi sẽ ở cùng gia đình trong 7 ngày tới.)*
 
 #### 6.4 Dấu hiệu nhận biết
 
@@ -183,9 +183,54 @@
 - In the future, next year, next week, next time, soon.
 - While, when.
 
-### 7. Thì hiện tại hoàn thành
+### 7. Thì hiện tại hoàn thành (Present Perfect)
 
-### 8. Thì quá khứ hoàn thành
+#### 7.1 Cách sử dụng
+
+- Diễn đạt về hành động đã xảy ra trong quá khứ và vẫn còn ảnh hưởng đến hiện tại.
+- Diễn đạt về hành động đã xảy ra trong một khoảng thời gian không xác định trong quá khứ.
+
+#### 7.2 Cú pháp
+
+```
+(+) S + have/has + V-ed/V3
+(-) S + haven't/hasn't + V-ed/V3
+(?) Have/Has + S + V-ed/V3?
+```
+
+#### 7.3 Ví dụ
+
+- I **have lived** in Hanoi for 10 years. *(Tôi đã sống ở Hà Nội được 10 năm.)*
+-  I **have been** to Vietnam three times. *(Tôi đã đến Việt Nam ba lần.)*
+
+#### 7.4 Dấu hiệu nhận biết
+
+- Since, for, just, already, yet, ever, never, recently.
+
+### 8. Thì quá khứ hoàn thành (Past Perfect)
+
+#### 8.1 Cách sử dụng
+
+- Diễn đạt về hành động đã xảy ra trước một thời điểm khác trong quá khứ (hành động xảy ra sau chia quá khứ đơn).
+- Diễn đạt một hành động hoàn tất trước một mốc thời gian trong quá khứ.
+
+#### 8.2 Cú pháp
+
+```
+(+) S + had + V3/V-ed
+(-) S + hadn't + V3/V-ed
+(?) Had + S + V3/V-ed?
+```
+
+#### 8.3 Ví dụ
+
+- *Before* the guests **arrived**, they **had already set up** the exhibition. (Trước khi khách đến, họ đã sắp xếp triển lãm rồi.)
+
+- She **had graduated** from college before she started her own business. *(Cô ấy đã tốt nghiệp đại học trước khi bắt đầu công việc kinh doanh riêng của mình)*
+
+#### 8.4 Dấu hiệu nhận biết
+
+- Before, after, already, by the time.
 
 ### 9. Thì tương lai hoàn thành
 
