@@ -232,9 +232,56 @@
 
 - Before, after, already, by the time.
 
-### 9. Thì tương lai hoàn thành
+### 9. Thì tương lai hoàn thành (Future Perfect)
 
-### 10. Thì hiện tại hoàn thành tiếp diễn
+#### 9.1 Cách sử dụng
+
+- Diễn tả một hành động hoàn thành trước một thời điểm cụ thể trong tương lai.
+- Diễn tả một hành động kéo dài đến một thời điểm cụ thể trong tương lai.
+
+#### 9.2 Cú pháp
+
+```
+(+) S + will have + V3/V-ed
+(-) S + will not have + V3/V-ed
+(?) Will + S + have + V3/V-ed?
+```
+
+#### 9.3 Ví dụ
+
+- They **will have finished** the project by the end of the month. *(Họ sẽ đã hoàn thành dự án trước cuối tháng.)*
+- This time next month, I **will have worked** at my company for exactly 10 years. (Vào thời điểm này vào tháng tới, tôi sẽ làm việc ở công ty của mình đúng 10 năm)
+
+#### 9.4 Dấu hiệu nhận biết
+
+- By, before, by the time.
+
+### 10. Thì hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)
+
+#### 10.1 Cách sử dụng
+
+- Dùng để diễn tả một hành động bắt đầu trong quá khứ và kéo dài đến hiện tại (Nhấn mạnh tính “liên tục” của hành động).
+- Dùng để diễn tả hành động đã xảy ra, vừa mới kết thúc nhưng kết quả của hành động vẫn có thể nhìn thấy được ở hiện tại.
+
+#### 10.2 Cú pháp
+
+```
+(+) S + have/has + been + V-ing
+(-) S + haven’t/ hasn’t + been + V-ing
+(?) Have/ Has + S + been + V-ing?
+```
+
+#### 10.3 Ví dụ
+
+- They **have been working** all day. (Họ đã làm việc cả ngày.)
+- He **has been fixing** the car for hours, and now it runs smoothly. (Anh ấy đã đang sửa chữa chiếc xe suốt vài giờ, và bây giờ nó chạy mượt mà.)
+
+#### 10.4 Dấu hiệu nhận biết
+
+- All day, all week,...
+-  Since, for.
+- For a long time, in the past week.
+- Recently, lately, up until now, so far, almost every day this week, in recent years,…
 
 ### 11. Thì quá khứ hoàn thành tiếp diễn
 
