@@ -283,9 +283,55 @@
 - For a long time, in the past week.
 - Recently, lately, up until now, so far, almost every day this week, in recent years,…
 
-### 11. Thì quá khứ hoàn thành tiếp diễn
+### 11. Thì quá khứ hoàn thành tiếp diễn (Past Perfect Continuous)
 
-### 12. Thì tương lai hoàn thành tiếp diễn
+#### 11.1 Cách sử dụng
+
+- Dùng để diễn tả hành động đã bắt đầu và kéo dài đến một điểm thời gian trong quá khứ.
+- Thường được sử dụng để nhấn mạnh sự liên tục của hành động trước một hành động khác trong quá khứ.
+
+#### 11.2 Cú pháp
+
+```
+(+) S + had + been + V-ing
+(-) S + hadn’t + been + V-ing
+(?) Had + S + been + V-ing?
+```
+
+#### 11.3 Ví dụ
+
+- She **had been studying** for hours before the exam. (Cô ấy đã đang học suốt vài giờ trước kì thi.)
+- By the time we arrived, they **had been waiting** for two hours. (Khi chúng tôi đến, họ đã đang đợi hai giờ rồi.)
+
+#### 11.4 Dấu hiệu nhận biết
+
+- By the time, before, after, since, how long, for.
+- All day, all week, all morning,...
+- The whole time, recently, so far, up to that moment,...
+
+### 12. Thì tương lai hoàn thành tiếp diễn (Future Perfect Continuous)
+
+#### 12.1 Cách sử dụng
+
+- Dùng để diễn tả hành động sẽ tiếp tục cho đến một thời điểm cụ thể trong tương lai và kết hợp cả khía cạnh liên tục của nó.
+
+#### 12.2 Cú pháp
+
+```
+(+) S + will have + been + V-ing
+(-) S + will not have + been + V-ing
+(?) Will + S + have + been + V-ing?
+```
+
+#### 12.3 Ví dụ
+
+- By 2025, I **will have been working** here for 10 years. (Đến năm 2025, tôi sẽ đã làm việc ở đây trong 10 năm.)
+
+#### 12.4 Dấu hiệu nhận biết
+
+- By the time, before, how long, for.
+- All day, all week, all morning,...
+- The whole time, recently, so far, up to that moment,...
 
 ### 13. Thì tương lai gần
 
